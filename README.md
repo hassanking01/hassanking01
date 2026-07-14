@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ============ ANIMATED HEADER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=220&section=header&text=hahchtar&fontAlignY=38&fontColor=ffffff&fontSize=70&fontAlign=50&desc=DevOps%20Engineer%20%F0%9F%9B%A0%EF%B8%8F%20%7C%2042%20Network%20Student&descSize=18&descAlignY=62&descColor=a9d6e5&animation=fadeIn" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=220&section=header&text=hassan&fontAlignY=38&fontColor=ffffff&fontSize=70&fontAlign=50&desc=DevOps%20Engineer%20%F0%9F%9B%A0%EF%B8%8F%20%7C%2042%20Network%20Student&descSize=18&descAlignY=62&descColor=a9d6e5&animation=fadeIn" /> -->
+
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -22,11 +23,8 @@
 <!-- ====== LEFT: PROFILE CARD ====== -->
 <td width="280" valign="top" align="center">
 
-<img src="https://github.com/hassanking01.png" width="180" style="border-radius: 50%; border: 4px solid #4CC9F0; box-shadow: 0 0 20px rgba(76,201,240,0.5);" alt="hassan" />
+<img src="https://wsrv.nl/?url=github.com/hassanking01.png&w=200&h=200&fit=cover&mask=circle" width="180" />
 
-<br/>
-
-# `hassan`
 ### DevOps & Cloud Engineer in Training
 
 <br/>
@@ -65,23 +63,11 @@ I'm currently obsessed with **Kubernetes**, **Infrastructure as Code**, and conv
 
 > ⚠️ **Warning**: May spontaneously deploy to production on Fridays.
 
+[![hahchtar's 42 stats](https://badge.mediaplus.ma/darkblue/hahchtar)](https://github.com/oakoudad/badge42)
+
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- ============ 42 STATS - BADGE42 DARKBLUE ============ -->
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhDqbTFk/giphy.gif" width="28"> 42 Network Stats
-
-<div align="center">
-
-<!-- Badge42 - Darkblue theme -->
-[![hahchtar's 42 stats](https://badge.mediaplus.ma/darkblue/hahchtar)](https://github.com/oakoudad/badge42)
-</div>
-
-<br/>
 
 <!-- ============ TECH STACK ============ -->
 
@@ -131,15 +117,14 @@ I'm currently obsessed with **Kubernetes**, **Infrastructure as Code**, and conv
 <!-- ============ GITHUB STATS ============ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRB6Q5gU96/giphy.gif" width="35"> GitHub Vibe Check
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hassanking01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1b2a&title_color=4CC9F0&icon_color=7209B7&text_color=a9d6e5" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=hassanking01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1b2a&title_color=4CC9F0&icon_color=7209B7&text_color=a9d6e5" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hassanking01&theme=midnight-purple&hide_border=true&background=0D1B2A&ring=4CC9F0&fire=FFB703&currStreakLabel=4CC9F0&sideLabels=a9d6e5&dates=a9d6e5" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanking01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1b2a&title_color=4CC9F0&text_color=a9d6e5" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassanking01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1b2a&title_color=4CC9F0&text_color=a9d6e5" />
 <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=hassanking01&theme=react-dark&hide_border=true&bg_color=0d1b2a&color=4CC9F0&line=7209B7&point=FFB703" />
 
 <br/>
@@ -184,9 +169,5 @@ I'm currently obsessed with **Kubernetes**, **Infrastructure as Code**, and conv
 
 <img src="https://komarev.com/ghpvc/?username=hassanking01&label=Profile%20Views&color=4CC9F0&style=for-the-badge&labelColor=0d1b2a" />
 <img src="https://img.shields.io/github/followers/hassanking01?label=Followers&style=for-the-badge&color=7209B7&labelColor=0d1b2a" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=120&section=footer" width="100%" />
 
 </div>
