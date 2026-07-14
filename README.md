@@ -23,8 +23,6 @@
 <!-- ====== LEFT: PROFILE CARD ====== -->
 <td width="280" valign="top" align="center">
 
-<img src="https://wsrv.nl/?url=github.com/hassanking01.png&w=200&h=200&fit=cover&mask=circle" width="180" />
-
 ### DevOps & Cloud Engineer in Training
 
 <br/>
